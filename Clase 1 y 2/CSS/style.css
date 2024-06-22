@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+main {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+h2 , h3 , h4 , h5 , p {
+    color:rgb(165, 20, 20);
+}
+
+.divRango {
+    background-color: rgb(255, 198, 129);
+    width: 50%;
+    padding: 5%;
+    height: 25rem;
+    border-radius: 1rem;
+}
