@@ -1,0 +1,17 @@
+.info {
+    font-size: 20px;
+    height: 30px;
+    width: 200px;
+    background: linear-gradient(
+    90deg,
+    rgb(0, 68, 255) 0% 15%,
+    rgb(84, 130, 255) 35% 65%,
+    rgb(84, 130, 255) 35% 65%,
+    rgb(0, 68, 255) 85% 100%
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+}
